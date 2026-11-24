@@ -1,0 +1,298 @@
+Engineering Parameter,Scenario,Python Result,Excel Result,Difference,Unit,Verification Status
+Operating phase voltage,Baseline [02_Corona_Analysis!B5],127.017059221718,127.017059221718,-3.26849658449646e-13,kV,MATCH
+Air-density factor,Dry [02_Corona_Analysis!B6],0.999731543624161,0.999731543624161,2.22044604925031e-16,1,MATCH
+Critical gradient,Dry [02_Corona_Analysis!B8],17.9301852348993,17.9301852348993,3.19744231092045e-14,kV/cm,MATCH
+"Disruptive critical voltage, phase",Dry [02_Corona_Analysis!B9],160.771635396599,160.771635396599,2.27373675443232e-13,kV,MATCH
+"Disruptive critical voltage, LL",Dry [02_Corona_Analysis!B10],278.464640922849,278.464640922849,-2.27373675443232e-13,kV LL,MATCH
+"Inception margin, phase",Dry [02_Corona_Analysis!B11],33.7545761748816,33.7545761748815,6.3948846218409e-14,kV,MATCH
+"Inception margin, LL",Dry [02_Corona_Analysis!B12],58.4646409228488,58.4646409228487,8.5265128291212e-14,kV LL,MATCH
+Corona loss,Dry [02_Corona_Analysis!B13],0,0,0,kW/km/phase,MATCH
+Total corona loss,Dry [02_Corona_Analysis!B14],0,0,0,kW,MATCH
+Air-density factor,Wet [02_Corona_Analysis!C6],0.999731543624161,0.999731543624161,2.22044604925031e-16,1,MATCH
+Critical gradient,Wet [02_Corona_Analysis!C8],13.7113181208054,13.7113181208054,-2.8421709430404e-14,kV/cm,MATCH
+"Disruptive critical voltage, phase",Wet [02_Corona_Analysis!C9],122.943015303282,122.943015303282,-2.41584530158434e-13,kV,MATCH
+"Disruptive critical voltage, LL",Wet [02_Corona_Analysis!C10],212.943548941002,212.943548941002,-2.8421709430404e-14,kV LL,MATCH
+"Inception margin, phase",Wet [02_Corona_Analysis!C11],-4.07404391843592,-4.07404391843593,1.06581410364015e-14,kV,MATCH
+"Inception margin, LL",Wet [02_Corona_Analysis!C12],-7.05645105899802,-7.05645105899802,-1.77635683940025e-15,kV LL,MATCH
+Corona loss,Wet [02_Corona_Analysis!C13],0.131275180492109,0.13127518049211,-5.82867087928207e-16,kW/km/phase,MATCH
+Total corona loss,Wet [02_Corona_Analysis!C14],59.0738312214492,59.0738312214497,-4.61852778244065e-13,kW,MATCH
+Voltage sensitivity B,220 kV LL [02_Corona_Analysis!B18],127.017059221718,127.017059221718,-3.26849658449646e-13,kV,MATCH
+Voltage sensitivity C,220 kV LL [02_Corona_Analysis!C18],0,0,0,kW/km/phase,MATCH
+Voltage sensitivity D,220 kV LL [02_Corona_Analysis!D18],0.131275180492109,0.13127518049211,-5.82867087928207e-16,kW/km/phase,MATCH
+Voltage sensitivity E,220 kV LL [02_Corona_Analysis!E18],0,0,0,kW,MATCH
+Voltage sensitivity F,220 kV LL [02_Corona_Analysis!F18],59.0738312214492,59.0738312214497,-4.61852778244065e-13,kW,MATCH
+Voltage sensitivity B,250 kV LL [02_Corona_Analysis!B19],144.337567297406,144.337567297406,4.54747350886464e-13,kV,MATCH
+Voltage sensitivity C,250 kV LL [02_Corona_Analysis!C19],0,0,0,kW/km/phase,MATCH
+Voltage sensitivity D,250 kV LL [02_Corona_Analysis!D19],3.62024201805285,3.62024201805286,-4.88498130835069e-15,kW/km/phase,MATCH
+Voltage sensitivity E,250 kV LL [02_Corona_Analysis!E19],0,0,0,kW,MATCH
+Voltage sensitivity F,250 kV LL [02_Corona_Analysis!F19],1629.10890812378,1629.10890812379,-5.22959453519434e-12,kW,MATCH
+Voltage sensitivity B,280 kV LL [02_Corona_Analysis!B20],161.658075373095,161.658075373095,2.27373675443232e-13,kV,MATCH
+Voltage sensitivity C,280 kV LL [02_Corona_Analysis!C20],0.00621483894219401,0.0062148389421944,-3.93782229046735e-16,kW/km/phase,MATCH
+Voltage sensitivity D,280 kV LL [02_Corona_Analysis!D20],11.8547141432434,11.8547141432434,-3.5527136788005e-14,kW/km/phase,MATCH
+Voltage sensitivity E,280 kV LL [02_Corona_Analysis!E20],2.7966775239873,2.79667752398748,-1.77191594730175e-13,kW,MATCH
+Voltage sensitivity F,280 kV LL [02_Corona_Analysis!F20],5334.62136445951,5334.62136445952,-5.45696821063757e-12,kW,MATCH
+Voltage sensitivity B,300 kV LL [02_Corona_Analysis!B21],173.205080756888,173.205080756888,-2.55795384873636e-13,kV,MATCH
+Voltage sensitivity C,300 kV LL [02_Corona_Analysis!C21],1.22268389439396,1.22268389439396,-4.21884749357559e-15,kW/km/phase,MATCH
+Voltage sensitivity D,300 kV LL [02_Corona_Analysis!D21],19.9807540531647,19.9807540531647,1.06581410364015e-14,kW/km/phase,MATCH
+Voltage sensitivity E,300 kV LL [02_Corona_Analysis!E21],550.20775247728,550.207752477283,-2.8421709430404e-12,kW,MATCH
+Voltage sensitivity F,300 kV LL [02_Corona_Analysis!F21],8991.33932392412,8991.33932392412,0,kW,MATCH
+Voltage sensitivity B,350 kV LL [02_Corona_Analysis!B22],202.072594216369,202.072594216369,2.8421709430404e-14,kV,MATCH
+Voltage sensitivity C,350 kV LL [02_Corona_Analysis!C22],13.4912279256368,13.4912279256368,-7.105427357601e-15,kW/km/phase,MATCH
+Voltage sensitivity D,350 kV LL [02_Corona_Analysis!D22],49.5232252205815,49.5232252205815,-3.5527136788005e-14,kW/km/phase,MATCH
+Voltage sensitivity E,350 kV LL [02_Corona_Analysis!E22],6071.05256653656,6071.05256653657,-1.36424205265939e-11,kW,MATCH
+Voltage sensitivity F,350 kV LL [02_Corona_Analysis!F22],22285.4513492617,22285.4513492617,-4.00177668780088e-11,kW,MATCH
+"Visual critical voltage, phase",25 degC [02_Corona_Analysis!B26],201.110248999904,201.110248999904,-4.83169060316868e-13,kV,MATCH
+"Visual critical voltage, LL",25 degC [02_Corona_Analysis!C26],348.333169190661,348.333169190661,-1.70530256582424e-13,kV LL,MATCH
+"Visual critical voltage, phase",40 degC [02_Corona_Analysis!B27],192.427091319607,192.427091319607,-3.97903932025656e-13,kV,MATCH
+"Visual critical voltage, LL",40 degC [02_Corona_Analysis!C27],333.293498918255,333.293498918255,-3.41060513164848e-13,kV LL,MATCH
+Temperature inception margin B,25 degC [02_Corona_Analysis!B32],278.464640922849,278.464640922849,-2.27373675443232e-13,kV LL,MATCH
+Temperature inception margin C,25 degC [02_Corona_Analysis!C32],58.4646409228488,58.4646409228487,8.5265128291212e-14,kV LL,MATCH
+Temperature inception margin D,25 degC [02_Corona_Analysis!D32],20.9953553632854,20.9953553632854,7.105427357601e-15,%,MATCH
+Temperature inception margin B,40 degC [02_Corona_Analysis!B33],265.119690079901,265.119690079901,-2.27373675443232e-13,kV LL,MATCH
+Temperature inception margin C,40 degC [02_Corona_Analysis!C33],45.1196900799007,45.1196900799007,4.9737991503207e-14,kV LL,MATCH
+Temperature inception margin D,40 degC [02_Corona_Analysis!D33],17.0186115057327,17.0186115057326,5.6843418860808e-14,%,MATCH
+Radius sensitivity B,1 cm [02_Corona_Analysis!B37],118.840886100142,118.840886100142,2.41584530158434e-13,kV,MATCH
+Radius sensitivity C,1 cm [02_Corona_Analysis!C37],205.838452741952,205.838452741952,3.12638803734444e-13,kV LL,MATCH
+Radius sensitivity D,1 cm [02_Corona_Analysis!D37],-26.0809372206858,-26.0809372206858,-4.61852778244065e-14,%,MATCH
+Radius sensitivity B,1.43 cm [02_Corona_Analysis!B38],160.771635396599,160.771635396599,2.27373675443232e-13,kV,MATCH
+Radius sensitivity C,1.43 cm [02_Corona_Analysis!C38],278.464640922849,278.464640922849,-2.27373675443232e-13,kV LL,MATCH
+Radius sensitivity D,1.43 cm [02_Corona_Analysis!D38],0,0,0,%,MATCH
+Radius sensitivity B,2 cm [02_Corona_Analysis!B39],212.825257515308,212.825257515308,3.97903932025656e-13,kV,MATCH
+Radius sensitivity C,2 cm [02_Corona_Analysis!C39],368.624159150444,368.624159150444,2.27373675443232e-13,kV LL,MATCH
+Radius sensitivity D,2 cm [02_Corona_Analysis!D39],32.377366809948,32.377366809948,2.8421709430404e-14,%,MATCH
+Capacitance equivalent radius,Single [03_Bundling!B7],0.0143,0.0143,0,m,MATCH
+Inductance GMR,Single [03_Bundling!B8],0.01113684,0.01113684,0,m,MATCH
+Capacitance radius ratio,Single [03_Bundling!B9],1,1,0,1,MATCH
+GMR ratio,Single [03_Bundling!B10],1,1,0,1,MATCH
+Critical electric field,Single [03_Bundling!B11],17.9301852348993,17.9301852348993,3.19744231092045e-14,kV/cm,MATCH
+Surface electric field,Single [03_Bundling!B12],14.1656791275369,14.1656791275369,-1.06581410364015e-14,kV/cm,MATCH
+Field enhancement,Single [03_Bundling!B13],1,1,0,1,MATCH
+Maximum electric field,Single [03_Bundling!B14],14.1656791275369,14.1656791275369,-1.06581410364015e-14,kV/cm,MATCH
+Corona inception phase voltage,Single [03_Bundling!B15],160.771635396599,160.771635396599,1.98951966012828e-13,kV,MATCH
+Corona inception LL voltage,Single [03_Bundling!B16],278.464640922849,278.464640922849,-2.8421709430404e-13,kV LL,MATCH
+Inductance per km,Single [03_Bundling!B17],1.30406105532301,1.30406105532301,3.99680288865056e-15,mH/km,MATCH
+Total inductance,Single [03_Bundling!B18],0.195609158298452,0.195609158298452,1.11022302462516e-16,H,MATCH
+Inductive reactance,Single [03_Bundling!B19],61.45242946853,61.45242946853,7.105427357601e-15,ohm/phase,MATCH
+Capacitance per km,Single [03_Bundling!B20],8.87218870157537,8.87218870157537,0,nF/km,MATCH
+Total capacitance,Single [03_Bundling!B21],1.33082830523631,1.33082830523631,-4.44089209850063e-15,uF,MATCH
+Charging current,Single [03_Bundling!B22],53.1048217467353,53.1048217467353,-1.4210854715202e-14,A,MATCH
+Capacitance equivalent radius,Twin bundle [03_Bundling!C7],0.0756306816047562,0.0756306816047562,-4.16333634234434e-17,m,MATCH
+Inductance GMR,Twin bundle [03_Bundling!C8],0.0667438087016316,0.0667438087016316,4.16333634234434e-17,m,MATCH
+Capacitance radius ratio,Twin bundle [03_Bundling!C9],5.28885885347945,5.28885885347945,8.88178419700125e-16,1,MATCH
+GMR ratio,Twin bundle [03_Bundling!C10],5.99306524127415,5.99306524127415,3.5527136788005e-15,1,MATCH
+Critical electric field,Twin bundle [03_Bundling!C11],17.9301852348993,17.9301852348993,3.19744231092045e-14,kV/cm,MATCH
+Surface electric field,Twin bundle [03_Bundling!C12],9.64482857377047,9.64482857377047,-3.5527136788005e-15,kV/cm,MATCH
+Field enhancement,Twin bundle [03_Bundling!C13],1.03575,1.03575,0,1,MATCH
+Maximum electric field,Twin bundle [03_Bundling!C14],9.98963119528276,9.98963119528276,0,kV/cm,MATCH
+Corona inception phase voltage,Twin bundle [03_Bundling!C15],227.980328334145,227.980328334145,-4.83169060316868e-13,kV,MATCH
+Corona inception LL voltage,Twin bundle [03_Bundling!C16],394.873511800973,394.873511800973,-1.70530256582424e-13,kV LL,MATCH
+Inductance per km,Twin bundle [03_Bundling!C17],0.945940453790393,0.945940453790393,-2.22044604925031e-16,mH/km,MATCH
+Total inductance,Twin bundle [03_Bundling!C18],0.141891068068559,0.141891068068559,-8.32667268468867e-17,H,MATCH
+Inductive reactance,Twin bundle [03_Bundling!C19],44.5763937054194,44.5763937054194,0,ohm/phase,MATCH
+Capacitance per km,Twin bundle [03_Bundling!C20],12.0814171110929,12.0814171110929,-3.19744231092045e-14,nF/km,MATCH
+Total capacitance,Twin bundle [03_Bundling!C21],1.81221256666393,1.81221256666393,2.22044604925031e-16,uF,MATCH
+Charging current,Twin bundle [03_Bundling!C22],72.3137800279905,72.3137800279905,2.8421709430404e-14,A,MATCH
+Inductance reduction,Twin versus single [03_Bundling!B27],27.4619505023034,27.4619505023032,1.84741111297626e-13,%,MATCH
+Capacitance increase,Twin versus single [03_Bundling!B28],36.171778097412,36.1717780974119,6.3948846218409e-14,%,MATCH
+Electric-field reduction,Twin versus single [03_Bundling!B29],29.4800404178028,29.4800404178028,-7.105427357601e-15,%,MATCH
+Corona inception improvement,Twin versus single [03_Bundling!B30],41.8038248922154,41.8038248922154,-7.105427357601e-15,%,MATCH
+Conductor weight,Baseline [04_Sag_Tension!B5],15.8922,15.8922,1.77635683940025e-15,N/m,MATCH
+Baseline conductor sag,Baseline [04_Sag_Tension!B6],9.7339725,9.7339725,1.77635683940025e-15,m,MATCH
+Baseline ground clearance,Baseline [04_Sag_Tension!B7],15.2660275,15.2660275,-1.77635683940025e-15,m,MATCH
+Sag/span,Baseline [04_Sag_Tension!B8],2.781135,2.781135,4.44089209850063e-16,%,MATCH
+Vertical support reaction,Baseline [04_Sag_Tension!B9],2781.135,2781.135,0,N,MATCH
+Resultant support tension,Baseline [04_Sag_Tension!B10],25154.2185704153,25154.2185704153,-2.18278728425503e-11,N,MATCH
+Span sensitivity B,200 m [04_Sag_Tension!B14],3.17844,3.17844,4.44089209850063e-16,m,MATCH
+Span sensitivity C,200 m [04_Sag_Tension!C14],21.82156,21.82156,-3.5527136788005e-15,m,MATCH
+Span sensitivity D,200 m [04_Sag_Tension!D14],1.58922,1.58922,2.22044604925031e-16,%,MATCH
+Span sensitivity E,200 m [04_Sag_Tension!E14],1.58922,1.58922,2.22044604925031e-16,kN,MATCH
+Span sensitivity B,250 m [04_Sag_Tension!B15],4.9663125,4.9663125,8.88178419700125e-16,m,MATCH
+Span sensitivity C,250 m [04_Sag_Tension!C15],20.0336875,20.0336875,0,m,MATCH
+Span sensitivity D,250 m [04_Sag_Tension!D15],1.986525,1.986525,2.22044604925031e-16,%,MATCH
+Span sensitivity E,250 m [04_Sag_Tension!E15],1.986525,1.986525,2.22044604925031e-16,kN,MATCH
+Span sensitivity B,300 m [04_Sag_Tension!B16],7.15149,7.15149,8.88178419700125e-16,m,MATCH
+Span sensitivity C,300 m [04_Sag_Tension!C16],17.84851,17.84851,-3.5527136788005e-15,m,MATCH
+Span sensitivity D,300 m [04_Sag_Tension!D16],2.38383,2.38383,4.44089209850063e-16,%,MATCH
+Span sensitivity E,300 m [04_Sag_Tension!E16],2.38383,2.38383,4.44089209850063e-16,kN,MATCH
+Span sensitivity B,350 m [04_Sag_Tension!B17],9.7339725,9.7339725,1.77635683940025e-15,m,MATCH
+Span sensitivity C,350 m [04_Sag_Tension!C17],15.2660275,15.2660275,-1.77635683940025e-15,m,MATCH
+Span sensitivity D,350 m [04_Sag_Tension!D17],2.781135,2.781135,8.88178419700125e-16,%,MATCH
+Span sensitivity E,350 m [04_Sag_Tension!E17],2.781135,2.781135,4.44089209850063e-16,kN,MATCH
+Span sensitivity B,400 m [04_Sag_Tension!B18],12.71376,12.71376,1.77635683940025e-15,m,MATCH
+Span sensitivity C,400 m [04_Sag_Tension!C18],12.28624,12.28624,-1.77635683940025e-15,m,MATCH
+Span sensitivity D,400 m [04_Sag_Tension!D18],3.17844,3.17844,4.44089209850063e-16,%,MATCH
+Span sensitivity E,400 m [04_Sag_Tension!E18],3.17844,3.17844,4.44089209850063e-16,kN,MATCH
+Tension sensitivity B,15 kN [04_Sag_Tension!B23],16.2232875,16.2232875,0,m,MATCH
+Tension sensitivity C,15 kN [04_Sag_Tension!C23],8.7767125,8.7767125,-1.77635683940025e-15,m,MATCH
+Tension sensitivity D,15 kN [04_Sag_Tension!D23],15.2556452465382,15.2556452465382,4.61852778244065e-14,kN,MATCH
+Tension sensitivity B,20 kN [04_Sag_Tension!B24],12.167465625,12.167465625,1.77635683940025e-15,m,MATCH
+Tension sensitivity C,20 kN [04_Sag_Tension!C24],12.832534375,12.832534375,-1.77635683940025e-15,m,MATCH
+Tension sensitivity D,20 kN [04_Sag_Tension!D24],20.1924419496064,20.1924419496064,1.77635683940025e-14,kN,MATCH
+Tension sensitivity B,25 kN [04_Sag_Tension!B25],9.7339725,9.7339725,1.77635683940025e-15,m,MATCH
+Tension sensitivity C,25 kN [04_Sag_Tension!C25],15.2660275,15.2660275,-1.77635683940025e-15,m,MATCH
+Tension sensitivity D,25 kN [04_Sag_Tension!D25],25.1542185704153,25.1542185704153,-1.77635683940025e-14,kN,MATCH
+Tension sensitivity B,30 kN [04_Sag_Tension!B26],8.11164375,8.11164375,0,m,MATCH
+Tension sensitivity C,30 kN [04_Sag_Tension!C26],16.88835625,16.88835625,0,m,MATCH
+Tension sensitivity D,30 kN [04_Sag_Tension!D26],30.1286360774633,30.1286360774633,3.19744231092045e-14,kN,MATCH
+Tension sensitivity B,35 kN [04_Sag_Tension!B27],6.9528375,6.9528375,8.88178419700125e-16,m,MATCH
+Tension sensitivity C,35 kN [04_Sag_Tension!C27],18.0471625,18.0471625,0,m,MATCH
+Tension sensitivity D,35 kN [04_Sag_Tension!D27],35.110322013451,35.110322013451,4.2632564145606e-14,kN,MATCH
+Additional loading B,0 % [04_Sag_Tension!B32],15.8922,15.8922,1.77635683940025e-15,N/m,MATCH
+Additional loading C,0 % [04_Sag_Tension!C32],9.7339725,9.7339725,1.77635683940025e-15,m,MATCH
+Additional loading D,0 % [04_Sag_Tension!D32],15.2660275,15.2660275,-1.77635683940025e-15,m,MATCH
+Additional loading E,0 % [04_Sag_Tension!E32],25.1542185704153,25.1542185704153,-1.77635683940025e-14,kN,MATCH
+Additional loading B,10 % [04_Sag_Tension!B33],17.48142,17.48142,3.5527136788005e-15,N/m,MATCH
+Additional loading C,10 % [04_Sag_Tension!C33],10.70736975,10.70736975,3.5527136788005e-15,m,MATCH
+Additional loading D,10 % [04_Sag_Tension!D33],14.29263025,14.29263025,-3.5527136788005e-15,m,MATCH
+Additional loading E,10 % [04_Sag_Tension!E33],25.1864844983327,25.1864844983327,-2.1316282072803e-14,kN,MATCH
+Additional loading B,25 % [04_Sag_Tension!B34],19.86525,19.86525,3.5527136788005e-15,N/m,MATCH
+Additional loading C,25 % [04_Sag_Tension!C34],12.167465625,12.167465625,1.77635683940025e-15,m,MATCH
+Additional loading D,25 % [04_Sag_Tension!D34],12.832534375,12.832534375,-1.77635683940025e-15,m,MATCH
+Additional loading E,25 % [04_Sag_Tension!E34],25.240552437008,25.240552437008,2.1316282072803e-14,kN,MATCH
+Additional loading B,40 % [04_Sag_Tension!B35],22.24908,22.24908,3.5527136788005e-15,N/m,MATCH
+Additional loading C,40 % [04_Sag_Tension!C35],13.6275615,13.6275615,0,m,MATCH
+Additional loading D,40 % [04_Sag_Tension!D35],11.3724385,11.3724385,0,m,MATCH
+Additional loading E,40 % [04_Sag_Tension!E35],25.3013840589981,25.3013840589981,-4.2632564145606e-14,kN,MATCH
+Additional loading B,50 % [04_Sag_Tension!B36],23.8383,23.8383,3.5527136788005e-15,N/m,MATCH
+Additional loading C,50 % [04_Sag_Tension!C36],14.60095875,14.60095875,1.77635683940025e-15,m,MATCH
+Additional loading D,50 % [04_Sag_Tension!D36],10.39904125,10.39904125,-1.77635683940025e-15,m,MATCH
+Additional loading E,50 % [04_Sag_Tension!E36],25.345672248897,25.345672248897,-2.48689957516035e-14,kN,MATCH
+Temperature increase,Standalone 75 degC [05_Temperature!B8],50,50,0,degC,MATCH
+Span thermal expansion,Standalone 75 degC [05_Temperature!B10],0.3325,0.3325,0,m,MATCH
+Span thermal expansion,Standalone 75 degC [05_Temperature!B11],332.5,332.5,0,mm,MATCH
+Expanded reference length,Standalone 75 degC [05_Temperature!B12],350.3325,350.3325,0,m,MATCH
+Initial suspended length,Standalone 75 degC [05_Temperature!B19],350.721906442901,350.721906442901,0,m,MATCH
+Suspended thermal expansion,Standalone 75 degC [05_Temperature!B20],333.185811120756,333.185811120756,-5.6843418860808e-14,mm,MATCH
+Expanded suspended length,Standalone 75 degC [05_Temperature!B21],351.055092254022,351.055092254022,-2.27373675443232e-13,m,MATCH
+Hot conductor sag,Standalone 75 degC [05_Temperature!B22],11.7677890166486,11.7677890166486,1.59872115546023e-14,m,MATCH
+Hot clearance,Standalone 75 degC [05_Temperature!B23],13.2322109833514,13.2322109833514,-1.59872115546023e-14,m,MATCH
+Sag increase,Standalone 75 degC [05_Temperature!B24],20.8940031076584,20.8940031076584,-7.105427357601e-15,%,MATCH
+Temperature sensitivity B,25 degC [05_Temperature!B29],0,0,0,degC,MATCH
+Temperature sensitivity C,25 degC [05_Temperature!C29],0,0,0,m,MATCH
+Temperature sensitivity D,25 degC [05_Temperature!D29],350.721906442901,350.721906442901,0,m,MATCH
+Temperature sensitivity E,25 degC [05_Temperature!E29],9.73397250000001,9.73397250000001,1.77635683940025e-15,m,MATCH
+Temperature sensitivity F,25 degC [05_Temperature!F29],15.2660275,15.2660275,-1.24344978758018e-14,m,MATCH
+Temperature sensitivity G,25 degC [05_Temperature!G29],1.0949425875614e-13,1.27743301882163e-13,-1.82490431260231e-14,%,MATCH
+Temperature sensitivity B,40 degC [05_Temperature!B30],15,15,0,degC,MATCH
+Temperature sensitivity C,40 degC [05_Temperature!C30],0.0999557433362268,0.0999557433362268,0,m,MATCH
+Temperature sensitivity D,40 degC [05_Temperature!D30],350.821862186237,350.821862186237,2.27373675443232e-13,m,MATCH
+Temperature sensitivity E,40 degC [05_Temperature!E30],10.3860200242267,10.3860200242267,-8.88178419700125e-15,m,MATCH
+Temperature sensitivity F,40 degC [05_Temperature!F30],14.6139799757733,14.6139799757733,8.88178419700125e-15,m,MATCH
+Temperature sensitivity G,40 degC [05_Temperature!G30],6.69867851205341,6.69867851205343,-1.95399252334028e-14,%,MATCH
+Temperature sensitivity B,55 degC [05_Temperature!B31],30,30,0,degC,MATCH
+Temperature sensitivity C,55 degC [05_Temperature!C31],0.199911486672454,0.199911486672454,-4.16333634234434e-16,m,MATCH
+Temperature sensitivity D,55 degC [05_Temperature!D31],350.921817929573,350.921817929573,4.54747350886464e-13,m,MATCH
+Temperature sensitivity E,55 degC [05_Temperature!E31],10.9994819540067,10.9994819540067,0,m,MATCH
+Temperature sensitivity F,55 degC [05_Temperature!F31],14.0005180459933,14.0005180459933,0,m,MATCH
+Temperature sensitivity G,55 degC [05_Temperature!G31],13.0009557147064,13.0009557147064,-1.06581410364015e-14,%,MATCH
+Temperature sensitivity B,75 degC [05_Temperature!B32],50,50,0,degC,MATCH
+Temperature sensitivity C,75 degC [05_Temperature!C32],0.333185811120756,0.333185811120756,-5.55111512312578e-17,m,MATCH
+Temperature sensitivity D,75 degC [05_Temperature!D32],351.055092254022,351.055092254022,-2.27373675443232e-13,m,MATCH
+Temperature sensitivity E,75 degC [05_Temperature!E32],11.7677890166486,11.7677890166486,1.59872115546023e-14,m,MATCH
+Temperature sensitivity F,75 degC [05_Temperature!F32],13.2322109833514,13.2322109833514,-1.59872115546023e-14,m,MATCH
+Temperature sensitivity G,75 degC [05_Temperature!G32],20.8940031076584,20.8940031076584,-7.105427357601e-15,%,MATCH
+Temperature sensitivity B,90 degC [05_Temperature!B33],65,65,0,degC,MATCH
+Temperature sensitivity C,90 degC [05_Temperature!C33],0.433141554456983,0.433141554456983,-2.22044604925031e-16,m,MATCH
+Temperature sensitivity D,90 degC [05_Temperature!D33],351.155047997358,351.155047997358,0,m,MATCH
+Temperature sensitivity E,90 degC [05_Temperature!E33],12.3125971936565,12.3125971936565,-3.5527136788005e-14,m,MATCH
+Temperature sensitivity F,90 degC [05_Temperature!F33],12.6874028063435,12.6874028063435,3.5527136788005e-14,m,MATCH
+Temperature sensitivity G,90 degC [05_Temperature!G33],26.4909798507902,26.4909798507903,-5.6843418860808e-14,%,MATCH
+Wind sensitivity B,0 m/s [06_Wind_Loading!B5],0,0,0,Pa,MATCH
+Wind sensitivity C,0 m/s [06_Wind_Loading!C5],0,0,0,N/m,MATCH
+Wind sensitivity D,0 m/s [06_Wind_Loading!D5],15.8922,15.8922,1.77635683940025e-15,N/m,MATCH
+Wind sensitivity E,0 m/s [06_Wind_Loading!E5],0,0,0,deg,MATCH
+Wind sensitivity F,0 m/s [06_Wind_Loading!F5],0,0,0,m,MATCH
+Wind sensitivity G,0 m/s [06_Wind_Loading!G5],9.7339725,9.7339725,1.77635683940025e-15,m,MATCH
+Wind sensitivity B,5 m/s [06_Wind_Loading!B6],15.3125,15.3125,1.77635683940025e-15,Pa,MATCH
+Wind sensitivity C,5 m/s [06_Wind_Loading!C6],0.525525,0.525525,0,N/m,MATCH
+Wind sensitivity D,5 m/s [06_Wind_Loading!D6],15.9008866848873,15.9008866848873,-3.73034936274053e-14,N/m,MATCH
+Wind sensitivity E,5 m/s [06_Wind_Loading!E6],1.89397292368093,1.89397292368093,-4.44089209850063e-16,deg,MATCH
+Wind sensitivity F,5 m/s [06_Wind_Loading!F6],0.3218840625,0.3218840625,0,m,MATCH
+Wind sensitivity G,5 m/s [06_Wind_Loading!G6],9.73929309449345,9.73929309449345,0,m,MATCH
+Wind sensitivity B,10 m/s [06_Wind_Loading!B7],61.25,61.25,7.105427357601e-15,Pa,MATCH
+Wind sensitivity C,10 m/s [06_Wind_Loading!C7],2.1021,2.1021,0,N/m,MATCH
+Wind sensitivity D,10 m/s [06_Wind_Loading!D7],16.0306221105109,16.0306221105109,-2.8421709430404e-14,N/m,MATCH
+Wind sensitivity E,10 m/s [06_Wind_Loading!E7],7.53491186837448,7.53491186837448,0,deg,MATCH
+Wind sensitivity F,10 m/s [06_Wind_Loading!F7],1.28753625,1.28753625,0,m,MATCH
+Wind sensitivity G,10 m/s [06_Wind_Loading!G7],9.81875604268791,9.81875604268791,0,m,MATCH
+Wind sensitivity B,15 m/s [06_Wind_Loading!B8],137.8125,137.8125,0,Pa,MATCH
+Wind sensitivity C,15 m/s [06_Wind_Loading!C8],4.729725,4.729725,0,N/m,MATCH
+Wind sensitivity D,15 m/s [06_Wind_Loading!D8],16.5810831798054,16.5810831798054,-1.4210854715202e-14,N/m,MATCH
+Wind sensitivity E,15 m/s [06_Wind_Loading!E8],16.573688392974,16.573688392974,-3.19744231092045e-14,deg,MATCH
+Wind sensitivity F,15 m/s [06_Wind_Loading!F8],2.8969565625,2.8969565625,0,m,MATCH
+Wind sensitivity G,15 m/s [06_Wind_Loading!G8],10.1559134476308,10.1559134476308,0,m,MATCH
+Wind sensitivity B,20 m/s [06_Wind_Loading!B9],245,245,2.8421709430404e-14,Pa,MATCH
+Wind sensitivity C,20 m/s [06_Wind_Loading!C9],8.4084,8.4084,0,N/m,MATCH
+Wind sensitivity D,20 m/s [06_Wind_Loading!D9],17.9795220014326,17.9795220014326,3.19744231092045e-14,N/m,MATCH
+Wind sensitivity E,20 m/s [06_Wind_Loading!E9],27.8828577488731,27.8828577488731,2.8421709430404e-14,deg,MATCH
+Wind sensitivity F,20 m/s [06_Wind_Loading!F9],5.150145,5.150145,0,m,MATCH
+Wind sensitivity G,20 m/s [06_Wind_Loading!G9],11.0124572258775,11.0124572258775,-1.24344978758018e-14,m,MATCH
+Wind sensitivity B,25 m/s [06_Wind_Loading!B10],382.8125,382.8125,0,Pa,MATCH
+Wind sensitivity C,25 m/s [06_Wind_Loading!C10],13.138125,13.138125,0,N/m,MATCH
+Wind sensitivity D,25 m/s [06_Wind_Loading!D10],20.619707790258,20.619707790258,-3.5527136788005e-14,N/m,MATCH
+Wind sensitivity E,25 m/s [06_Wind_Loading!E10],39.580631884043,39.580631884043,1.4210854715202e-14,deg,MATCH
+Wind sensitivity F,25 m/s [06_Wind_Loading!F10],8.0471015625,8.0471015625,0,m,MATCH
+Wind sensitivity G,25 m/s [06_Wind_Loading!G10],12.629571021533,12.629571021533,5.32907051820075e-15,m,MATCH
+Environmental loading E,Baseline [07_Environmental!E6],15.8922,15.8922,1.77635683940025e-15,N/m,MATCH
+Environmental loading F,Baseline [07_Environmental!F6],0,0,0,N/m,MATCH
+Environmental loading G,Baseline [07_Environmental!G6],25000,25000,0,N,MATCH
+Environmental loading H,Baseline [07_Environmental!H6],9.7339725,9.7339725,1.77635683940025e-15,m,MATCH
+Horizontal displacement,Baseline [07_Environmental!B17],0,0,0,m,MATCH
+Resultant displacement,Baseline [07_Environmental!C17],9.7339725,9.7339725,1.77635683940025e-15,m,MATCH
+Ground clearance,Baseline [07_Environmental!D17],15.2660275,15.2660275,-1.77635683940025e-15,m,MATCH
+Resultant support tension,Baseline [07_Environmental!E17],25.1542185704153,25.1542185704153,-1.77635683940025e-14,kN,MATCH
+Clearance reduction,Baseline [07_Environmental!F17],0,0,0,m,MATCH
+Environmental loading E,Hot [07_Environmental!E7],15.8922,15.8922,1.77635683940025e-15,N/m,MATCH
+Environmental loading F,Hot [07_Environmental!F7],0,0,0,N/m,MATCH
+Environmental loading G,Hot [07_Environmental!G7],20679.2722197618,20679.2722197618,2.5465851649642e-11,N,MATCH
+Environmental loading H,Hot [07_Environmental!H7],11.7677890166486,11.7677890166486,1.59872115546023e-14,m,MATCH
+Horizontal displacement,Hot [07_Environmental!B18],0,0,0,m,MATCH
+Resultant displacement,Hot [07_Environmental!C18],11.7677890166486,11.7677890166486,1.59872115546023e-14,m,MATCH
+Ground clearance,Hot [07_Environmental!D18],13.2322109833514,13.2322109833514,-1.59872115546023e-14,m,MATCH
+Resultant support tension,Hot [07_Environmental!E18],20.8654501851084,20.8654501851083,4.9737991503207e-14,kN,MATCH
+Clearance reduction,Hot [07_Environmental!F18],2.03381651664861,2.0338165166486,1.33226762955019e-14,m,MATCH
+Environmental loading E,Wind only [07_Environmental!E8],15.8922,15.8922,1.77635683940025e-15,N/m,MATCH
+Environmental loading F,Wind only [07_Environmental!F8],4.729725,4.729725,0,N/m,MATCH
+Environmental loading G,Wind only [07_Environmental!G8],25000,25000,0,N,MATCH
+Environmental loading H,Wind only [07_Environmental!H8],9.7339725,9.7339725,1.77635683940025e-15,m,MATCH
+Horizontal displacement,Wind only [07_Environmental!B19],2.8969565625,2.8969565625,0,m,MATCH
+Resultant displacement,Wind only [07_Environmental!C19],10.1559134476308,10.1559134476308,0,m,MATCH
+Ground clearance,Wind only [07_Environmental!D19],15.2660275,15.2660275,-1.77635683940025e-15,m,MATCH
+Resultant support tension,Wind only [07_Environmental!E19],25.1678326894094,25.1678326894094,-2.1316282072803e-14,kN,MATCH
+Clearance reduction,Wind only [07_Environmental!F19],0,0,0,m,MATCH
+Environmental loading E,Extra vertical [07_Environmental!E9],19.86525,19.86525,3.5527136788005e-15,N/m,MATCH
+Environmental loading F,Extra vertical [07_Environmental!F9],0,0,0,N/m,MATCH
+Environmental loading G,Extra vertical [07_Environmental!G9],25000,25000,0,N,MATCH
+Environmental loading H,Extra vertical [07_Environmental!H9],12.167465625,12.167465625,1.77635683940025e-15,m,MATCH
+Horizontal displacement,Extra vertical [07_Environmental!B20],0,0,0,m,MATCH
+Resultant displacement,Extra vertical [07_Environmental!C20],12.167465625,12.167465625,1.77635683940025e-15,m,MATCH
+Ground clearance,Extra vertical [07_Environmental!D20],12.832534375,12.832534375,-1.77635683940025e-15,m,MATCH
+Resultant support tension,Extra vertical [07_Environmental!E20],25.240552437008,25.240552437008,2.1316282072803e-14,kN,MATCH
+Clearance reduction,Extra vertical [07_Environmental!F20],2.433493125,2.433493125,0,m,MATCH
+Environmental loading E,Extra vertical + wind [07_Environmental!E10],19.86525,19.86525,3.5527136788005e-15,N/m,MATCH
+Environmental loading F,Extra vertical + wind [07_Environmental!F10],4.729725,4.729725,0,N/m,MATCH
+Environmental loading G,Extra vertical + wind [07_Environmental!G10],25000,25000,0,N,MATCH
+Environmental loading H,Extra vertical + wind [07_Environmental!H10],12.167465625,12.167465625,1.77635683940025e-15,m,MATCH
+Horizontal displacement,Extra vertical + wind [07_Environmental!B21],2.8969565625,2.8969565625,0,m,MATCH
+Resultant displacement,Extra vertical + wind [07_Environmental!C21],12.5075807836915,12.5075807836915,-1.4210854715202e-14,m,MATCH
+Ground clearance,Extra vertical + wind [07_Environmental!D21],12.832534375,12.832534375,-1.77635683940025e-15,m,MATCH
+Resultant support tension,Extra vertical + wind [07_Environmental!E21],25.2541200147467,25.2541200147467,3.5527136788005e-15,kN,MATCH
+Clearance reduction,Extra vertical + wind [07_Environmental!F21],2.433493125,2.433493125,0,m,MATCH
+Environmental loading E,Hot + wind [07_Environmental!E11],15.8922,15.8922,1.77635683940025e-15,N/m,MATCH
+Environmental loading F,Hot + wind [07_Environmental!F11],4.729725,4.729725,0,N/m,MATCH
+Environmental loading G,Hot + wind [07_Environmental!G11],20679.2722197618,20679.2722197618,2.5465851649642e-11,N,MATCH
+Environmental loading H,Hot + wind [07_Environmental!H11],11.7677890166486,11.7677890166486,1.59872115546023e-14,m,MATCH
+Horizontal displacement,Hot + wind [07_Environmental!B22],3.50224675669626,3.50224675669627,-6.21724893790088e-15,m,MATCH
+Resultant displacement,Hot + wind [07_Environmental!C22],12.2778903189899,12.2778903189899,-2.66453525910038e-14,m,MATCH
+Ground clearance,Hot + wind [07_Environmental!D22],13.2322109833514,13.2322109833514,-1.59872115546023e-14,m,MATCH
+Resultant support tension,Hot + wind [07_Environmental!E22],20.8818605928954,20.8818605928953,7.105427357601e-14,kN,MATCH
+Clearance reduction,Hot + wind [07_Environmental!F22],2.03381651664861,2.0338165166486,1.33226762955019e-14,m,MATCH
+Environmental loading E,Hot + extra + wind [07_Environmental!E12],19.86525,19.86525,3.5527136788005e-15,N/m,MATCH
+Environmental loading F,Hot + extra + wind [07_Environmental!F12],4.729725,4.729725,0,N/m,MATCH
+Environmental loading G,Hot + extra + wind [07_Environmental!G12],20679.2722197618,20679.2722197618,2.5465851649642e-11,N,MATCH
+Environmental loading H,Hot + extra + wind [07_Environmental!H12],14.7097362708108,14.7097362708108,-3.01980662698043e-14,m,MATCH
+Horizontal displacement,Hot + extra + wind [07_Environmental!B23],3.50224675669626,3.50224675669627,-6.21724893790088e-15,m,MATCH
+Resultant displacement,Hot + extra + wind [07_Environmental!C23],15.1209151013289,15.1209151013289,-3.01980662698043e-14,m,MATCH
+Ground clearance,Hot + extra + wind [07_Environmental!D23],10.2902637291892,10.2902637291892,3.01980662698043e-14,m,MATCH
+Resultant support tension,Hot + extra + wind [07_Environmental!E23],20.9857779760066,20.9857779760066,-1.06581410364015e-14,kN,MATCH
+Clearance reduction,Hot + extra + wind [07_Environmental!F23],4.97576377081077,4.9757637708108,-3.10862446895044e-14,m,MATCH
